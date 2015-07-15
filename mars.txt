@@ -1,2 +1,3 @@
 Mars is a red planet.
 Best planet for initial space colony.
+Requires terraforming to provide life-sustaining outside colony buildings.
